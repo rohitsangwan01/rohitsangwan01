@@ -21,10 +21,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsangwan01&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitsangwan01&count_private=true&show_icons=true&hide_border=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsangwan01&count_private=true&show_icons=true&hide_border=true" />
-</p>
 </br>
 </br>
