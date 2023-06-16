@@ -8,7 +8,7 @@
 ### Hello! <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50"> Welcome to my profile :octocat:
 
 - 🔭 I’m currently working on Mobile & Web development
-- 🌱 Dart, 💙 Flutter, Java , Kotlin , Javascript , HTML , CSS ,Python
+- 🌱 Dart, 💙 Flutter, Java, Kotlin, Javascript, Python, Swift, PHP, HTML
 - 👯 Looking to contribute with the organization and Opensource Flutter Apps/Libraries and Web projects ,
 - 📫 How to reach me : [Telegram](https://t.me/rohitsangwan01)
 - ⚡ Passionate about new mobile technologies.
