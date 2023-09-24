@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on Mobile & Web development
 - 🌱 Dart, 💙 Flutter, Java, Kotlin, Javascript, Python, Swift, PHP, HTML
 - 👯 Looking to contribute with the organization and Opensource Flutter Apps/Libraries and Web projects ,
-- 📫 How to reach me : [Telegram](https://t.me/rohitsangwan01) [Discord](https://discordapp.com/users/900196567632453673)
+- 📫 How to reach me : [Telegram](https://t.me/rohitsangwan01)
 - ⚡ Passionate about new mobile technologies.
 
 </p>
